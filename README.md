@@ -26,17 +26,6 @@ Boards are read from `.txt` files with the following rules:
 
 ---
 
-## How to Run
-
-```bash
-python sudoku_csp.py easy.txt
-python sudoku_csp.py medium.txt
-python sudoku_csp.py hard.txt
-python sudoku_csp.py expert.txt
-```
-
----
-
 ## Algorithm Overview
 
 ### 1. CSP Formulation
